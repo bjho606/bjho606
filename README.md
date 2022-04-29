@@ -5,19 +5,6 @@
 
 --
 
-<div>
-  
-### 📩 Contact 📩
-<a href="mailto:bjho606@naver.com">bjho606@naver.com</a>
-
-### ☁️ SNS ☁️
-<a href="https://blog.naver.com/bjho606" target="_blank"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="https://www.instagram.com/jb_.ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-</div>
-
---
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbjho606&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bjho606)](https://solved.ac/bjho606)
